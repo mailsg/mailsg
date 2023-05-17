@@ -12,8 +12,11 @@ I am passionate about JavaScript, Ruby, Rails, React, Redux, and the endless pos
 
 
 
-<a href="https://www.github.com/mailsg" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mailsg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+![Status](https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=flat-square)
+
+
 
 ### Skills
 
@@ -25,6 +28,13 @@ src="https://img.shields.io/github/followers/mailsg?logo=github&style=for-the-ba
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/mailsg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sandeep-ghosh-660830166" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+
+<a href="https://www.github.com/mailsg" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mailsg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
 
 
 ### Badges
