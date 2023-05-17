@@ -10,6 +10,8 @@ I am passionate about JavaScript, Ruby, Rails, React, Redux, and the endless pos
  
 * 🤝  I'm open to collaborating on innovative web projects that push the boundaries of user experience, cutting-edge applications integrating Machine Learning and Artificial Intelligence, and building scalable and robust software solutions with the latest technologies. Additionally, I'm eager to explore new frontiers in the realm of Cloud Computing and DevOps, creating impactful solutions that make a positive difference in people's lives. I thrive in collaborative initiatives that foster knowledge sharing and continuous learning, and I'm always excited to take part in ventures that challenge the status quo and drive meaningful change. Let's join forces and turn ideas into reality! Reach out, and let's start collaborating on something extraordinary.
 
+
+
 <a href="https://www.github.com/mailsg" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mailsg?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
